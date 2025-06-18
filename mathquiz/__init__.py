@@ -1,0 +1,1 @@
+# Este arquivo torna o diretório 'mathquiz' um pacote Python válido.
